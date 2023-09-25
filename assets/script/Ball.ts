@@ -1,7 +1,7 @@
 import { _decorator, Component, Node } from 'cc';
 const { ccclass, property } = _decorator;
 
-@ccclass('NewComponent')
+@ccclass('Ball')
 export class NewComponent extends Component {
     start() {
 
